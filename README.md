@@ -45,6 +45,21 @@ Built using Oracle VirtualBox, Wazuh SIEM, pfSense, Windows Active Directory, Sy
 ## Project Evidence
 This repository includes the lab architecture, security monitoring screenshots, firewall detection evidence, and detailed SOC investigation reports.
 
+## Repository Structure
+
+- [Network Architecture](./architecture/Home-SOC-Lab-Architecture.png)
+- [Case 01 — pfSense Blocked Traffic](./cases/SOC-Case-01-pfSense-Blocked-Traffic.md)
+- [Case 02 — FodHelper UAC Bypass Investigation](./cases/SOC-Case-02-FodHelper.md)
+- [Security Evidence](./screenshots/)
+
+## Evidence Screenshots
+
+### Case 01 — pfSense Firewall Detection
+[View blocked traffic evidence](./screenshots/pfSense-Case01-Blocked-Traffic.png)
+
+### Case 02 — FodHelper Detection
+[View Wazuh alert evidence](./screenshots/SOC-Case-02-FodHelper-Alert.png)
+
 ## Future Enhancements
 - CrowdSec-to-Wazuh integration
 - Additional SOC detection scenarios
