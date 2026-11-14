@@ -85,7 +85,8 @@ MITRE ATT&CK Mapping
       ↓
 Analyst Assessment
       ↓
-Document Findings ```
+Document Findings
+```
 
 
 ## Key Lab Results
