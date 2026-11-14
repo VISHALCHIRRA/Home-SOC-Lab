@@ -59,7 +59,8 @@ This repository includes the lab architecture, security monitoring screenshots, 
 ## Evidence Screenshots
 
 ### Case 01 — pfSense Firewall Detection
-[View blocked traffic evidence](./screenshots/pfSense-Case01-Blocked-Traffic.png)
+
+![pfSense blocked ICMP traffic](screenshots/pfSense-Case01-Blocked-Traffic.png)
 
 ### Case 02 — FodHelper Detection
 [View Wazuh alert evidence](./screenshots/SOC-Case-02-FodHelper-Alert.png)
