@@ -23,7 +23,7 @@ Built using Oracle VirtualBox, Wazuh SIEM, pfSense, Windows Active Directory, Sy
 - Created a custom pfSense decoder and detection rule (ID 100100).
 - Successfully generated 4 real Level 5 firewall-block alerts.
 - Investigated suspicious FodHelper activity using Wazuh telemetry.
-- Deployed and tested CrowdSec SSH monitoring.
+- Configured CrowdSec as part of the lab's SSH security monitoring setup.
 
 ## SOC Investigation Cases
 
@@ -43,7 +43,7 @@ Built using Oracle VirtualBox, Wazuh SIEM, pfSense, Windows Active Directory, Sy
 - Verdict: Likely benign based on available evidence
 
 ## Project Evidence
-Architecture diagrams, screenshots, detection rules, and detailed investigation reports will be added to this repository.
+This repository includes the lab architecture, security monitoring screenshots, firewall detection evidence, and detailed SOC investigation reports.
 
 ## Future Enhancements
 - CrowdSec-to-Wazuh integration
