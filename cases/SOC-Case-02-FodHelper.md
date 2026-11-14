@@ -25,6 +25,10 @@ The process was associated with the Windows `svchost.exe` process running the `D
 
 The detection triggered Wazuh Rule `92055` with Level 12 severity.
 
+### Alert Evidence
+
+![Wazuh FodHelper detection](../screenshots/SOC-Case-02-FodHelper-Alert.png)
+
 ## 4. Investigation
 
 The alert was investigated using Wazuh Threat Hunting and Windows Sysmon telemetry.
