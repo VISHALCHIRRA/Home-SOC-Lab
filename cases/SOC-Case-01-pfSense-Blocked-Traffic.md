@@ -66,6 +66,11 @@ Wazuh generated four alerts from the four ICMP packets:
 | 20:00:03 | 10.10.10.100 | 10.10.20.1 | ICMP | Block | 100100 |
 | 20:00:04 | 10.10.10.100 | 10.10.20.1 | ICMP | Block | 100100 |
 
+### Evidence
+
+![pfSense blocked ICMP traffic](../screenshots/pfSense-Case01-Blocked-Traffic.png)
+
+
 ## 6. Detection Flow
 
 ```text
