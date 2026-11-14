@@ -66,6 +66,28 @@ This repository includes the lab architecture, security monitoring screenshots, 
 
 ![Wazuh FodHelper alert evidence](screenshots/SOC-Case-02-FodHelper-Alert.png)
 
+## SOC Detection & Investigation Workflow
+
+```text
+Security Event
+      ↓
+Network / Endpoint Activity
+      ↓
+pfSense / Windows / Sysmon
+      ↓
+Wazuh Log Collection
+      ↓
+Detection Rule / Alert
+      ↓
+Threat Hunting & Investigation
+      ↓
+MITRE ATT&CK Mapping
+      ↓
+Analyst Assessment
+      ↓
+Document Findings
+
+
 ## Future Enhancements
 - CrowdSec-to-Wazuh integration
 - Additional SOC detection scenarios
