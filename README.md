@@ -88,6 +88,16 @@ Analyst Assessment
 Document Findings
 
 
+## Key Lab Results
+
+| Investigation | Detection | Result |
+|---|---|---|
+| pfSense Blocked Traffic | Wazuh Rule 100100 | 4 real Level 5 alerts generated |
+| FodHelper Activity | Wazuh Rule 92055 | Investigated and assessed as likely benign |
+| Windows Endpoint Monitoring | Sysmon + Wazuh | Process and security telemetry collected |
+| Firewall Log Integration | pfSense → UDP/514 → Wazuh | Successfully validated end-to-end detection |
+
+
 ## Future Enhancements
 - CrowdSec-to-Wazuh integration
 - Additional SOC detection scenarios
