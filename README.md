@@ -47,7 +47,7 @@ This repository includes the lab architecture, security monitoring screenshots, 
 
 ### Lab Architecture
 
-![Home SOC Lab Architecture](architecture/Home-SOC-Lab-Architecture.png)
+![Home SOC Lab Architecture](architecture/Home-SOC-Lab-Architecture.png) 
 
 ## Repository Structure
 
