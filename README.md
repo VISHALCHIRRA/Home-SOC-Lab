@@ -13,7 +13,7 @@ Built using Oracle VirtualBox, Wazuh SIEM, pfSense, Windows Active Directory, Sy
 - Windows 10 — Domain-joined SOC workstation
 - Sysmon — Endpoint process and activity monitoring
 - Kali Linux — Controlled security testing
-- CrowdSec — SSH security monitoring
+- CrowdSec — SSH security monitoring setup
 - VirtualBox — Virtualized lab infrastructure
 
 ## Key Achievements
