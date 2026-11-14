@@ -45,6 +45,10 @@ Built using Oracle VirtualBox, Wazuh SIEM, pfSense, Windows Active Directory, Sy
 ## Project Evidence
 This repository includes the lab architecture, security monitoring screenshots, firewall detection evidence, and detailed SOC investigation reports.
 
+### Lab Architecture
+
+![Home SOC Lab Architecture](architecture/Home-SOC-Lab-Architecture.png)
+
 ## Repository Structure
 
 - [Network Architecture](./architecture/Home-SOC-Lab-Architecture.png)
