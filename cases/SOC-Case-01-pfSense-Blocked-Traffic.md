@@ -131,3 +131,11 @@ The test demonstrated visibility from network activity through firewall enforcem
 - SOC investigation methodology
 - Incident documentation
 - Network security monitoring
+
+## 10. Key Takeaway
+
+This case demonstrates an end-to-end SOC detection workflow:
+
+**Network Activity → Firewall Enforcement → Log Collection → SIEM Decoding → Detection Rule → Alert → Investigation**
+
+The investigation shows how a SOC analyst can validate firewall activity and confirm that security controls are generating actionable telemetry.
