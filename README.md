@@ -63,7 +63,9 @@ This repository includes the lab architecture, security monitoring screenshots, 
 ![pfSense blocked ICMP traffic](screenshots/pfSense-Case01-Blocked-Traffic.png)
 
 ### Case 02 — FodHelper Detection
-[View Wazuh alert evidence](./screenshots/SOC-Case-02-FodHelper-Alert.png)
+### Case 02 — FodHelper Detection
+
+![Wazuh FodHelper alert evidence](screenshots/SOC-Case-02-FodHelper-Alert.png)
 
 ## Future Enhancements
 - CrowdSec-to-Wazuh integration
